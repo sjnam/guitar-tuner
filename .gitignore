@@ -1,0 +1,11 @@
+# make가 만드는 것들
+tuner
+gui/gui
+*.go
+*.tex
+*.pdf
+*.log
+*.toc
+*.idx
+*.scn
+*.out
